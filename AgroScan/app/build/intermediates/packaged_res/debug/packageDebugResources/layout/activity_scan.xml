@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/colorBackground">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/colorPrimary"
+        app:title="@string/scan_title"
+        app:titleTextColor="@color/colorWhite"
+        app:navigationIcon="@drawable/ic_arrow_back" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:padding="16dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <EditText
+                android:id="@+id/etPlantName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/plant_name_hint"
+                android:background="@drawable/rounded_edittext_green"
+                android:padding="12dp"
+                android:inputType="text"
+                android:layout_marginBottom="10dp" />
+
+            <EditText
+                android:id="@+id/etCropType"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/crop_type_hint"
+                android:background="@drawable/rounded_edittext_green"
+                android:padding="12dp"
+                android:inputType="text"
+                android:layout_marginBottom="10dp" />
+
+            <EditText
+                android:id="@+id/etSymptoms"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/symptoms_hint"
+                android:background="@drawable/rounded_edittext_green"
+                android:padding="12dp"
+                android:inputType="textMultiLine"
+                android:minLines="2"
+                android:layout_marginBottom="10dp" />
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="160dp"
+                app:cardCornerRadius="12dp"
+                app:cardBackgroundColor="@color/colorGreenLight"
+                android:layout_marginBottom="12dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:gravity="center">
+
+                    <ImageView
+                        android:id="@+id/ivPreview"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:scaleType="centerCrop"
+                        android:src="@drawable/ic_leaf"
+                        android:padding="40dp"
+                        android:alpha="0.4" />
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginBottom="10dp">
+
+                <Button
+                    android:id="@+id/btnCamera"
+                    android:layout_width="0dp"
+                    android:layout_height="44dp"
+                    android:layout_weight="1"
+                    android:layout_marginEnd="6dp"
+                    android:text="@string/btn_take_photo"
+                    android:textSize="12sp"
+                    style="@style/OutlineButton" />
+
+                <Button
+                    android:id="@+id/btnGallery"
+                    android:layout_width="0dp"
+                    android:layout_height="44dp"
+                    android:layout_weight="1"
+                    android:layout_marginStart="6dp"
+                    android:text="@string/btn_gallery"
+                    android:textSize="12sp"
+                    style="@style/OutlineButton" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/layoutProgress"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:visibility="gone"
+                android:layout_marginBottom="10dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/analyzing"
+                    android:textSize="12sp"
+                    android:textColor="@color/colorTextSecondary"
+                    android:layout_marginBottom="6dp" />
+
+                <ProgressBar
+                    android:id="@+id/progressBar"
+                    android:layout_width="match_parent"
+                    android:layout_height="8dp"
+                    style="@style/Widget.AppCompat.ProgressBar.Horizontal"
+                    android:progressTint="@color/colorAccent"
+                    android:progressBackgroundTint="@color/colorCardBorder"
+                    android:indeterminate="true" />
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/btnAnalyze"
+                android:layout_width="match_parent"
+                android:layout_height="48dp"
+                android:text="@string/btn_analyze"
+                style="@style/GreenButton" />
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

@@ -1,9 +1,9 @@
-#Tue Jun 09 14:46:25 EST 2026
-base.0=C\:\\Users\\usuario\\Documents\\AgroScan\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
-base.1=C\:\\Users\\usuario\\Documents\\AgroScan\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
-base.2=C\:\\Users\\usuario\\Documents\\AgroScan\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\3\\classes.dex
-base.3=C\:\\Users\\usuario\\Documents\\AgroScan\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\6\\classes.dex
-base.4=C\:\\Users\\usuario\\Documents\\AgroScan\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\9\\classes.dex
+#Wed Jun 10 01:05:33 EST 2026
+base.0=C\:\\repo\\Parcial_2_DS6\\AgroScan1GS134\\AgroScan\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.1=C\:\\repo\\Parcial_2_DS6\\AgroScan1GS134\\AgroScan\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.2=C\:\\repo\\Parcial_2_DS6\\AgroScan1GS134\\AgroScan\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\3\\classes.dex
+base.3=C\:\\repo\\Parcial_2_DS6\\AgroScan1GS134\\AgroScan\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\6\\classes.dex
+base.4=C\:\\repo\\Parcial_2_DS6\\AgroScan1GS134\\AgroScan\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\9\\classes.dex
 path.0=classes.dex
 path.1=0/classes.dex
 path.2=3/classes.dex

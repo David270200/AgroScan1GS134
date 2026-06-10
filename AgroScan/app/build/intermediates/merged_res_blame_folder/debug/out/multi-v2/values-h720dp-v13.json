@@ -4,7 +4,7 @@
             "outputFile": "com.agroscan.app-mergeDebugResources-30:/values-h720dp-v13/values-h720dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\usuario\\.gradle\\caches\\transforms-3\\6c6ffd2b5c140a59a107fe5eaa0e19c4\\transformed\\appcompat-1.6.1\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
+                    "source": "C:\\Users\\songo\\.gradle\\caches\\transforms-3\\6c6ffd2b5c140a59a107fe5eaa0e19c4\\transformed\\appcompat-1.6.1\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

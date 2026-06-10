@@ -149,12 +149,10 @@
                 <Button
                     android:id="@+id/btnAddHistory"
                     android:layout_width="wrap_content"
-                    android:layout_height="32dp"
+                    android:layout_height="wrap_content"
                     android:text="+ Añadir"
                     android:textSize="11sp"
-                    android:textColor="@color/colorPrimary"
-                    android:background="@null"
-                    android:paddingHorizontal="0dp" />
+                    android:textColor="#000000" />
             </LinearLayout>
 
             <DatePicker
