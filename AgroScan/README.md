@@ -135,6 +135,40 @@ La paleta usa tonos de verde naturaleza: verde oscuro (#2E7D32) para la Action B
 se usan los datos quemados para este caso:
 El usuario administrador se crea automáticamente en el primer arranque con el usuario `admin` y contraseña `admin123`. Cualquier usuario registrado desde la app puede iniciar sesión con las credenciales que definió al registrarse.
 
+# Promp Utilizado
+Necesito que me ayudes a desarrollar una aplicación Android completa basándote en el documento que te adjunto.
+
+Primero analiza todo el documento y luego crea el proyecto respetando exactamente los requisitos que aparecen allí. La aplicación se llama AgroScan y debe hacerse en Java y XML usando Android Studio.
+
+Quiero que generes el proyecto de forma ordenada, mostrando primero la estructura de carpetas y después el código de cada archivo. No omitas clases, layouts, modelos, adaptadores, utilidades ni configuraciones necesarias para que el proyecto funcione.
+
+Ten en cuenta que es un parcial universitario, así que necesito que se implementen correctamente los temas vistos en clase como:
+
+* Activities
+* Intents explícitos e implícitos
+* SharedPreferences
+* ListView con adaptadores personalizados
+* Menús y menús contextuales
+* ProgressBar
+* DatePicker
+* Paso de datos con Bundle y putExtra
+* Diseño Material Design
+
+Quiero que el código sea funcional, esté bien organizado y listo para copiar y pegar en Android Studio.
+
+Si el proyecto es muy grande, genera los archivos por partes siguiendo este orden:
+
+1. Estructura completa del proyecto.
+2. AndroidManifest y Gradle.
+3. Modelos y utilidades.
+4. Activities Java.
+5. Layouts XML.
+6. Adaptadores.
+7. Menús, colores, strings y themes.
+8. Explicación final de cómo ejecutar el proyecto.
+
+Antes de generar código, resume brevemente lo que entendiste del documento para confirmar que todos los requisitos fueron considerados.
+
 
 
 
@@ -146,4 +180,3 @@ Integrante 2 se encarga de HomeActivity y AdminHubActivity, junto con PlantAdapt
 
 Integrante 3 se encarga de ScanActivity, RecordDetailActivity y AddHistoryActivity, junto con HistoryAdapter.java, MLKitHelper.java, los modelos PlantRecord.java e HistoryEntry.java, y la configuración de permisos.
 
-prestenme 500$ que no tengo
