@@ -60,6 +60,13 @@ Detalle completo de un escaneo. Muestra los datos de la planta, el diagnóstico 
 
 Permite registrar manualmente un diagnóstico o tratamiento en el historial de una planta. Valida los campos requeridos, genera un ID único con System.currentTimeMillis() y guarda el registro en SharedPreferences.
 
+
+
+
+
+
+
+
 ---
 
 ## Flujo de Navegación
