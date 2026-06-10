@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "C:\\Users\\usuario\\.gradle\\daemon\\8.0\\com.agroscan.app-merged_res-32:\\layout_activity_record_detail.xml.flat",
+        "source": "C:\\Users\\usuario\\.gradle\\daemon\\8.0\\com.agroscan.app-main-34:\\layout\\activity_record_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\.gradle\\daemon\\8.0\\com.agroscan.app-merged_res-32:\\drawable_tag_green.xml.flat",
+        "source": "C:\\Users\\usuario\\.gradle\\daemon\\8.0\\com.agroscan.app-main-34:\\drawable\\tag_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\.gradle\\daemon\\8.0\\com.agroscan.app-merged_res-32:\\layout_item_plant.xml.flat",
+        "source": "C:\\Users\\usuario\\.gradle\\daemon\\8.0\\com.agroscan.app-main-34:\\layout\\item_plant.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\.gradle\\daemon\\8.0\\com.agroscan.app-merged_res-32:\\mipmap-mdpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\usuario\\.gradle\\daemon\\8.0\\com.agroscan.app-main-34:\\mipmap-mdpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\.gradle\\daemon\\8.0\\com.agroscan.app-merged_res-32:\\drawable_circle_accent.xml.flat",
+        "source": "C:\\Users\\usuario\\.gradle\\daemon\\8.0\\com.agroscan.app-main-34:\\drawable\\circle_accent.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\.gradle\\daemon\\8.0\\com.agroscan.app-merged_res-32:\\drawable_rounded_green_bg.xml.flat",
+        "source": "C:\\Users\\usuario\\.gradle\\daemon\\8.0\\com.agroscan.app-main-34:\\drawable\\rounded_green_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\.gradle\\daemon\\8.0\\com.agroscan.app-merged_res-32:\\mipmap-xxhdpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\usuario\\.gradle\\daemon\\8.0\\com.agroscan.app-main-34:\\mipmap-xxhdpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\.gradle\\daemon\\8.0\\com.agroscan.app-merged_res-32:\\drawable_ic_add.xml.flat",
+        "source": "C:\\Users\\usuario\\.gradle\\daemon\\8.0\\com.agroscan.app-main-34:\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\.gradle\\daemon\\8.0\\com.agroscan.app-merged_res-32:\\drawable_tag_red.xml.flat",
+        "source": "C:\\Users\\usuario\\.gradle\\daemon\\8.0\\com.agroscan.app-main-34:\\drawable\\tag_red.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\.gradle\\daemon\\8.0\\com.agroscan.app-merged_res-32:\\layout_item_user.xml.flat",
+        "source": "C:\\Users\\usuario\\.gradle\\daemon\\8.0\\com.agroscan.app-main-34:\\layout\\item_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\.gradle\\daemon\\8.0\\com.agroscan.app-merged_res-32:\\drawable_rounded_edittext_green.xml.flat",
+        "source": "C:\\Users\\usuario\\.gradle\\daemon\\8.0\\com.agroscan.app-main-34:\\drawable\\rounded_edittext_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\.gradle\\daemon\\8.0\\com.agroscan.app-merged_res-32:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\usuario\\.gradle\\daemon\\8.0\\com.agroscan.app-main-34:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\.gradle\\daemon\\8.0\\com.agroscan.app-merged_res-32:\\menu_menu_context_user.xml.flat",
+        "source": "C:\\Users\\usuario\\.gradle\\daemon\\8.0\\com.agroscan.app-main-34:\\menu\\menu_context_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\.gradle\\daemon\\8.0\\com.agroscan.app-merged_res-32:\\layout_activity_scan.xml.flat",
+        "source": "C:\\Users\\usuario\\.gradle\\daemon\\8.0\\com.agroscan.app-main-34:\\layout\\activity_scan.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\.gradle\\daemon\\8.0\\com.agroscan.app-merged_res-32:\\mipmap-xxhdpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\usuario\\.gradle\\daemon\\8.0\\com.agroscan.app-main-34:\\mipmap-xxhdpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\.gradle\\daemon\\8.0\\com.agroscan.app-merged_res-32:\\drawable_circle_primary_light.xml.flat",
+        "source": "C:\\Users\\usuario\\.gradle\\daemon\\8.0\\com.agroscan.app-main-34:\\drawable\\circle_primary_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\.gradle\\daemon\\8.0\\com.agroscan.app-merged_res-32:\\drawable_ic_leaf.xml.flat",
+        "source": "C:\\Users\\usuario\\.gradle\\daemon\\8.0\\com.agroscan.app-main-34:\\drawable\\ic_leaf.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\.gradle\\daemon\\8.0\\com.agroscan.app-merged_res-32:\\xml_file_paths.xml.flat",
+        "source": "C:\\Users\\usuario\\.gradle\\daemon\\8.0\\com.agroscan.app-main-34:\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\.gradle\\daemon\\8.0\\com.agroscan.app-merged_res-32:\\menu_menu_context_history.xml.flat",
+        "source": "C:\\Users\\usuario\\.gradle\\daemon\\8.0\\com.agroscan.app-main-34:\\menu\\menu_context_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\.gradle\\daemon\\8.0\\com.agroscan.app-merged_res-32:\\menu_menu_home.xml.flat",
+        "source": "C:\\Users\\usuario\\.gradle\\daemon\\8.0\\com.agroscan.app-main-34:\\menu\\menu_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\.gradle\\daemon\\8.0\\com.agroscan.app-merged_res-32:\\mipmap-xhdpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\usuario\\.gradle\\daemon\\8.0\\com.agroscan.app-main-34:\\mipmap-xhdpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\.gradle\\daemon\\8.0\\com.agroscan.app-merged_res-32:\\mipmap-xhdpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\usuario\\.gradle\\daemon\\8.0\\com.agroscan.app-main-34:\\mipmap-xhdpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\.gradle\\daemon\\8.0\\com.agroscan.app-merged_res-32:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\usuario\\.gradle\\daemon\\8.0\\com.agroscan.app-main-34:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\.gradle\\daemon\\8.0\\com.agroscan.app-merged_res-32:\\drawable_ic_arrow_back.xml.flat",
+        "source": "C:\\Users\\usuario\\.gradle\\daemon\\8.0\\com.agroscan.app-main-34:\\drawable\\ic_arrow_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\.gradle\\daemon\\8.0\\com.agroscan.app-merged_res-32:\\layout_activity_admin_hub.xml.flat",
+        "source": "C:\\Users\\usuario\\.gradle\\daemon\\8.0\\com.agroscan.app-main-34:\\layout\\activity_admin_hub.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\.gradle\\daemon\\8.0\\com.agroscan.app-merged_res-32:\\drawable_gradient_green.xml.flat",
+        "source": "C:\\Users\\usuario\\.gradle\\daemon\\8.0\\com.agroscan.app-main-34:\\drawable\\gradient_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\.gradle\\daemon\\8.0\\com.agroscan.app-merged_res-32:\\mipmap-mdpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\usuario\\.gradle\\daemon\\8.0\\com.agroscan.app-main-34:\\mipmap-mdpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\.gradle\\daemon\\8.0\\com.agroscan.app-merged_res-32:\\layout_item_history.xml.flat",
+        "source": "C:\\Users\\usuario\\.gradle\\daemon\\8.0\\com.agroscan.app-main-34:\\layout\\item_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\.gradle\\daemon\\8.0\\com.agroscan.app-merged_res-32:\\mipmap-hdpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\usuario\\.gradle\\daemon\\8.0\\com.agroscan.app-main-34:\\mipmap-hdpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\.gradle\\daemon\\8.0\\com.agroscan.app-merged_res-32:\\mipmap-hdpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\usuario\\.gradle\\daemon\\8.0\\com.agroscan.app-main-34:\\mipmap-hdpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "com.agroscan.app-merged_res-32:/layout_activity_admin_hub.xml.flat",
+        "source": "com.agroscan.app-main-34:/layout/activity_admin_hub.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\.gradle\\daemon\\8.0\\com.agroscan.app-merged_res-32:\\drawable_rounded_edittext.xml.flat",
+        "source": "C:\\Users\\usuario\\.gradle\\daemon\\8.0\\com.agroscan.app-main-34:\\drawable\\rounded_edittext.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\.gradle\\daemon\\8.0\\com.agroscan.app-merged_res-32:\\drawable_tag_yellow.xml.flat",
+        "source": "C:\\Users\\usuario\\.gradle\\daemon\\8.0\\com.agroscan.app-main-34:\\drawable\\tag_yellow.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\.gradle\\daemon\\8.0\\com.agroscan.app-merged_res-32:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\usuario\\.gradle\\daemon\\8.0\\com.agroscan.app-main-34:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\.gradle\\daemon\\8.0\\com.agroscan.app-merged_res-32:\\layout_activity_add_history.xml.flat",
+        "source": "C:\\Users\\usuario\\.gradle\\daemon\\8.0\\com.agroscan.app-main-34:\\layout\\activity_add_history.xml"
+    }
+]

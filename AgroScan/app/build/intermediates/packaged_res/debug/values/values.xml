@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#DAD7CD</color>
+    <color name="colorBackground">#F1F8E9</color>
+    <color name="colorCardBorder">#C8E6C9</color>
+    <color name="colorGreenLight">#E8F5E9</color>
+    <color name="colorPrimary">#2E7D32</color>
+    <color name="colorPrimaryDark">#5DAB60</color>
+    <color name="colorRed">#D32F2F</color>
+    <color name="colorRedLight">#FFEBEE</color>
+    <color name="colorText">#212121</color>
+    <color name="colorTextSecondary">#616161</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorYellow">#009688</color>
+    <color name="colorYellowLight">#FFF8E1</color>
+    <string name="about_text">AgroScan v1.0 — Detector de enfermedades en plantas\nDesarrollado para el parcial de Programación Móvil</string>
+    <string name="admin_title">Panel de Administrador</string>
+    <string name="already_have_account">Ya tengo cuenta</string>
+    <string name="analyzing">Analizando imagen con ML Kit…</string>
+    <string name="app_name">AgroScan</string>
+    <string name="btn_add_history">Añadir al historial</string>
+    <string name="btn_analyze">Analizar planta</string>
+    <string name="btn_cancel">Cancelar</string>
+    <string name="btn_create_user">Crear usuario</string>
+    <string name="btn_enter">Entrar</string>
+    <string name="btn_gallery">Seleccionar de galería</string>
+    <string name="btn_go_home">Ir al inicio</string>
+    <string name="btn_save">Guardar registro</string>
+    <string name="btn_take_photo">Tomar foto</string>
+    <string name="causes_label">Causas</string>
+    <string name="confirm_password_hint">Confirmar contraseña</string>
+    <string name="crop_type_hint">Tipo de cultivo / ubicación</string>
+    <string name="date_hint">Fecha (DD/MM/AAAA)</string>
+    <string name="description_label">Descripción</string>
+    <string name="detail_title">Detalle del registro</string>
+    <string name="diagnosis_history">Historial de diagnósticos</string>
+    <string name="diagnosis_label">Diagnóstico: </string>
+    <string name="disease_hint">Enfermedad detectada</string>
+    <string name="diseases_detected">Enfermedades</string>
+    <string name="email_hint">Correo electrónico</string>
+    <string name="error_empty_fields">Por favor completa todos los campos</string>
+    <string name="error_passwords_mismatch">Las contraseñas no coinciden</string>
+    <string name="error_wrong_credentials">Usuario o contraseña incorrectos</string>
+    <string name="full_name_hint">Nombre completo</string>
+    <string name="healthy_plants">Plantas sanas</string>
+    <string name="history_title">Añadir diagnóstico</string>
+    <string name="home_title">AgroScan</string>
+    <string name="login_title">Iniciar sesión</string>
+    <string name="menu_about">Acerca de</string>
+    <string name="menu_delete_user">Eliminar usuario</string>
+    <string name="menu_logout">Cerrar sesión</string>
+    <string name="menu_view_detail">Ver detalle</string>
+    <string name="no_account">¿No tienes cuenta? Regístrate</string>
+    <string name="no_scans">No hay escaneos aún. ¡Presiona + para comenzar!</string>
+    <string name="observations_hint">Observaciones adicionales</string>
+    <string name="password_hint">Contraseña</string>
+    <string name="plant_name_hint">Nombre de la planta (ej: tomate)</string>
+    <string name="recent_scans">Escaneos recientes</string>
+    <string name="register_title">Crear cuenta</string>
+    <string name="registered_users">Usuarios registrados</string>
+    <string name="scan_title">Nuevo escaneo</string>
+    <string name="success_registered">Usuario registrado correctamente</string>
+    <string name="success_saved">Registro guardado</string>
+    <string name="symptoms_hint">Síntomas observados</string>
+    <string name="total_scans">Total escaneos</string>
+    <string name="treatment_hint">Tratamiento aplicado</string>
+    <string name="treatment_label">Tratamiento</string>
+    <string name="username_hint">Usuario</string>
+    <string name="welcome">Hola, </string>
+    <style name="GreenButton" parent="Widget.MaterialComponents.Button">
+        <item name="backgroundTint">@color/colorPrimary</item>
+        <item name="cornerRadius">20dp</item>
+        <item name="android:textColor">@color/colorWhite</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+    <style name="GreenEditText" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="boxStrokeColor">@color/colorAccent</item>
+        <item name="hintTextColor">@color/colorPrimary</item>
+    </style>
+    <style name="OutlineButton" parent="Widget.MaterialComponents.Button.OutlinedButton">
+        <item name="strokeColor">@color/colorPrimary</item>
+        <item name="cornerRadius">20dp</item>
+        <item name="android:textColor">@color/colorPrimary</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+    <style name="Theme.AgroScan" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryVariant">@color/colorPrimaryDark</item>
+        <item name="colorOnPrimary">@color/colorWhite</item>
+        <item name="colorSecondary">@color/colorAccent</item>
+        <item name="colorOnSecondary">@color/colorWhite</item>
+        <item name="android:colorBackground">@color/colorBackground</item>
+        <item name="android:statusBarColor">@color/colorPrimaryDark</item>
+    </style>
+    <style name="Theme.AgroScan.WithActionBar" parent="Theme.MaterialComponents.Light">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryVariant">@color/colorPrimaryDark</item>
+        <item name="colorOnPrimary">@color/colorWhite</item>
+        <item name="colorSecondary">@color/colorAccent</item>
+        <item name="android:statusBarColor">@color/colorPrimaryDark</item>
+    </style>
+</resources>
